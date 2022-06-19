@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaVirtualTesting.Benchmark", "AulaVirtualTesting.Benchmark\AulaVirtualTesting.Benchmark.csproj", "{57C02E9F-FF9A-4DD0-9101-D56573607379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaVirtualTesting.FileSeeding", "AulaVirtualTesting.FileSeeding\AulaVirtualTesting.FileSeeding.csproj", "{77565CE5-E7C9-46CF-96E9-847767C02DB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57C02E9F-FF9A-4DD0-9101-D56573607379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C02E9F-FF9A-4DD0-9101-D56573607379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C02E9F-FF9A-4DD0-9101-D56573607379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C02E9F-FF9A-4DD0-9101-D56573607379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77565CE5-E7C9-46CF-96E9-847767C02DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77565CE5-E7C9-46CF-96E9-847767C02DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77565CE5-E7C9-46CF-96E9-847767C02DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77565CE5-E7C9-46CF-96E9-847767C02DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
